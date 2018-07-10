@@ -1,4 +1,4 @@
-#Decks:
+==Decks:
 * Ozzy
 * Rhythm  Mullen
 * Manage
@@ -8,7 +8,7 @@
 * Baker
 * Flip David Gonzalez
 
-#Trucks:
+==Trucks:
 * Trucker?
 * Independent
 * Orion
@@ -18,7 +18,7 @@
 * Thunder sonora
 * Thunder hollow lights IshodWair
 
-#Wheels:
+==Wheels:
 * homemade
 * ? black ones
 * spitfire
